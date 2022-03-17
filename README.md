@@ -1,4 +1,4 @@
-# OpenPose(tf-pose-estimation)_Windows_environment-setup
+# OpenPose_Windows_environment-setup
 WindowsにOpenPoseを環境構築する方法
 
 ## 1) OpenPose 1.7.0 のインストール
